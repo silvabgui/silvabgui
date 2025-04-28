@@ -69,7 +69,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvabgui&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvabgui&theme=dark&nclude_all_commits=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
